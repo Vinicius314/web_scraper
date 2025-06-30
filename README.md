@@ -20,16 +20,6 @@ Este projeto tem como objetivo automatizar a coleta de informações de páginas
 - `BeautifulSoup` – Para parsing HTML
 - `pandas` – Para estruturação e exportação dos dados
 
-## 📁 Estrutura do Projeto
-
-web_scraper/
--├── main.py # Script principal de execução
--├── scraper.py # Funções de scraping
--├── utils.py # Funções auxiliares (ex: limpeza de dados)
--├── requirements.txt # Bibliotecas necessárias
--├── README.md # Descrição do projeto
--└── output/ # Pasta com os resultados exportados
-
 
 ## ▶️ Como usar
 
