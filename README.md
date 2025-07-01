@@ -17,10 +17,14 @@ Este projeto tem como objetivo automatizar a coleta de informações de páginas
 ## 📂 Estrutura
 
 ```
-web_scraper/
+web_scraper\
   ├── scraper.py
-  ├── quotes.csv
-  └── README.md
+  ├── main.py
+  ├── requirements.txt
+  ├── README.md
+  └── data\
+        ├── quotes.csv
+        └── imagens\
 ```
 
 ## 🛠️ Tecnologias utilizadas
