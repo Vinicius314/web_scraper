@@ -37,7 +37,13 @@ web_scraper\
 
 ## ▶️ Como usar
 
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/seu-usuario/web_scraper.git
-   cd web_scraper
+1. Instale o Playwright:
+```bash
+pip install playwright
+playwright install
+```
+
+2. Execute:
+```
+python scraper.py
+```
