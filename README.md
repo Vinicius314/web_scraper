@@ -12,6 +12,16 @@ Este projeto tem como objetivo automatizar a coleta de informações de páginas
 - Exportação dos dados para:
   - `.csv`
   - `.json`
+ 
+
+## 📂 Estrutura
+
+```
+web_scraper/
+  ├── scraper.py
+  ├── quotes.csv
+  └── README.md
+```
 
 ## 🛠️ Tecnologias utilizadas
 
